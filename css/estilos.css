@@ -639,6 +639,9 @@ textarea {
  .footer .logo .h2 {
         font-size: 3rem;
     }
+    .footer{
+        height: auto;
+    }
 }
 
 .footer .logo h2,
